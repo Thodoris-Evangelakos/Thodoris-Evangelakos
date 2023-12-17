@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [an image classifier](https://github.com/Thodoris-Evangelakos/computer-vision)
 
-- 🌱 I’m currently learning **Rust, Machine learning, computer vision and UAVs**
+- 🌱 I’m currently learning **Rust, Machine learning, computer vision and UAV design**
 
 - 👯 I’m looking to collaborate on [nothing for now](null)
 
